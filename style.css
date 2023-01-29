@@ -1,16 +1,24 @@
 body
 {
     background-color: #cef2f2;
+    padding: 20px;
 }
 
 div
 {
     background-color: #a3cfb5;
-    padding: 20px;
+    padding: 30px;
 }
 
 button
 {
     background-color: #e0c1db;
     border-color:#5e3356 ;
+}
+
+#RPScontent
+{
+    background-color: white;
+    padding:10px;
+    border-color: black;
 }
