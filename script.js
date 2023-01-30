@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", function() 
 { 
     let btn=document.getElementById('RPSbutton');
@@ -168,6 +167,12 @@ document.addEventListener("DOMContentLoaded", function()
             playOnePlayerFullGame();
         }
     }
+
+
+
+
+    let ticTacToeArray=["","","","","","","","","",];
+    let r1c1=document.querySelector("tr.row-one td"); 
 
 
 });

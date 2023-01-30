@@ -22,3 +22,18 @@ button
     padding:10px;
     border-color: black;
 }
+
+table
+{
+    background-color: white;
+}
+
+tr 
+{
+    height: 50px;
+}
+
+td 
+{
+    width: 50px;
+}
